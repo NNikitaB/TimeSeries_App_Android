@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">time_series_app_nnv_ver_3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_result">Results</string>
+    <string name="menu_login">LogIn</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="next">Next</string>
+    <string name="method">Method :</string>
+    <string name="time_series">Time Series :</string>
+    <string name="_20_5">: 20.5%</string>
+    <string name="load_ts">Load TS</string>
+    <string name="comp">Comp</string>
+
+
+</resources>
